@@ -1,0 +1,7 @@
+.imp{
+    font-weight: bold;
+    color: tomato;
+}
+.done {
+    text-decoration: line-through;
+}
